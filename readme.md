@@ -1,4 +1,4 @@
-# Packaging Challenge for Mobiquity implemented by Jarred Naicker
+# Packaging Challenge implemented by Jarred Naicker
 
 ## Solution details:
 
