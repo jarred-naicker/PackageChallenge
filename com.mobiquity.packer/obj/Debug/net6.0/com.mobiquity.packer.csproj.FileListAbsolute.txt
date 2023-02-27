@@ -1,0 +1,12 @@
+C:\Users\JarredN\source\repos\PackagingChallenge\PackerLibrary\bin\Debug\net6.0\com.mobiquity.packer.deps.json
+C:\Users\JarredN\source\repos\PackagingChallenge\PackerLibrary\bin\Debug\net6.0\com.mobiquity.packer.dll
+C:\Users\JarredN\source\repos\PackagingChallenge\PackerLibrary\bin\Debug\net6.0\com.mobiquity.packer.pdb
+C:\Users\JarredN\source\repos\PackagingChallenge\PackerLibrary\obj\Debug\net6.0\com.mobiquity.packer.csproj.AssemblyReference.cache
+C:\Users\JarredN\source\repos\PackagingChallenge\PackerLibrary\obj\Debug\net6.0\com.mobiquity.packer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JarredN\source\repos\PackagingChallenge\PackerLibrary\obj\Debug\net6.0\com.mobiquity.packer.AssemblyInfoInputs.cache
+C:\Users\JarredN\source\repos\PackagingChallenge\PackerLibrary\obj\Debug\net6.0\com.mobiquity.packer.AssemblyInfo.cs
+C:\Users\JarredN\source\repos\PackagingChallenge\PackerLibrary\obj\Debug\net6.0\com.mobiquity.packer.csproj.CoreCompileInputs.cache
+C:\Users\JarredN\source\repos\PackagingChallenge\PackerLibrary\obj\Debug\net6.0\com.mobiquity.packer.dll
+C:\Users\JarredN\source\repos\PackagingChallenge\PackerLibrary\obj\Debug\net6.0\refint\com.mobiquity.packer.dll
+C:\Users\JarredN\source\repos\PackagingChallenge\PackerLibrary\obj\Debug\net6.0\com.mobiquity.packer.pdb
+C:\Users\JarredN\source\repos\PackagingChallenge\PackerLibrary\obj\Debug\net6.0\ref\com.mobiquity.packer.dll
